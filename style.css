@@ -63,7 +63,7 @@ h1 {
 }
 
 .cell:hover {
-  background: rgba(255, 255, 255, 0.35);
+  background: rgba(70, 69, 69, 0.35);
   transform: scale(1.05);
   box-shadow: 0 0 12px rgba(255, 182, 193, 0.6);
 }
@@ -100,3 +100,4 @@ h1 {
     transform: translateY(0);
   }
 }
+
